@@ -1,2 +1,2 @@
 # Mini-ML-Projects
-A small repository for small ML ideas
+A personal repository for machine learning projects.
