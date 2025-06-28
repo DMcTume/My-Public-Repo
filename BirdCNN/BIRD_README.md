@@ -4,7 +4,7 @@ This is a convulutional neural network that is purposed to classify around 200 d
 
 ## Bird_Data
 
-The data is from Kaggle: [https://www.kaggle.com/datasets/dmcgow/birds-200](url)
+The data is from Kaggle: [https://www.kaggle.com/datasets/dmcgow/birds-200](url)  
 Each subdirectory is organized in a similar fashion:
 
 \---Subdirectory
