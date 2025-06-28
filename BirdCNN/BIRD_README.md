@@ -13,9 +13,9 @@ Each subdirectory is organized in a similar fashion:
 &emsp;&emsp;       |---img2  
 &emsp;&emsp;       |---img3  
 &emsp;&emsp;       ...  
-    \\---BirdSpecies2  
-    \\---BirdSpecies3  
-    ...  
+&emsp; \\---BirdSpecies2  
+&emsp; \\---BirdSpecies3  
+&emsp; ...  
 
 There are around 8000 (between both training and test data). There are 200 BirdSpecies folders in each subdirectory.
 
