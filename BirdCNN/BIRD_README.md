@@ -9,10 +9,10 @@ Each subdirectory is organized in a similar fashion:
 
 \\---Subdirectory  
 &emsp; \\---BirdSpecies1  
-        |---img1  
-        |---img2  
-        |---img3  
-        ...  
+&emsp;&emsp;       |---img1  
+&emsp;&emsp;       |---img2  
+&emsp;&emsp;       |---img3  
+&emsp;&emsp;       ...  
     \\---BirdSpecies2  
     \\---BirdSpecies3  
     ...  
