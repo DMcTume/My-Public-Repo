@@ -8,13 +8,13 @@ The data is from Kaggle: [https://www.kaggle.com/datasets/dmcgow/birds-200](url)
 Each subdirectory is organized in a similar fashion:
 
 \\---Subdirectory  
-    - \\---BirdSpecies1  
+&emsp\\---BirdSpecies1  
         |---img1  
         |---img2  
         |---img3  
         ...  
-    - \\---BirdSpecies2  
-    - \\---BirdSpecies3  
+    \\---BirdSpecies2  
+    \\---BirdSpecies3  
     ...  
 
 There are around 8000 (between both training and test data). There are 200 BirdSpecies folders in each subdirectory.
